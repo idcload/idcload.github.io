@@ -14,16 +14,16 @@ On the other hand, I'm also pragmatic. I'd like to be able to communicate with f
 
 ## The phone
 
-LG Nexus 5x, running CopperheadOS. Forgot to lock the bootloader though, now it will be wiped if I do.
+LG Nexus 5x, running LineageOS.
 
-Decided to change the stock ROM in favor for CopperheadOS because I wanted to be less annoyed by the Google Experience: The Feed showed me
+Decided to change the stock ROM in favor for LineageOS because I wanted to be less annoyed by the Google Experience: The Feed showed me:
 
 a) Intel I already knew  
 b) Intel I was and am not interested in.
 
-So much for that AI they call Assistant.
+So much for that AI they call Assistant. And kudos to The Open GApps Project
 
-Also, Copperhead promises a more secure phone. How can I resist that? Furthermore, it does provide me with the tools I want and for what it doesn't provide, it challenges me to find a working solution. My phone has a limited set of apps so it can stay snuggly buried deep inside my pocket more often. Although wobbly lately (why does it update apps which I uninstalled already?), F-Droid is a good repository for open-source apps.
+LineageOS does provide me with the tools I want and for what it doesn't provide, it challenges me to find a working solution. My phone has a limited set of apps so it can stay snuggly buried deep inside my pocket more often. Although wobbly lately (why does it update apps which I uninstalled already?), F-Droid is a good repository for open-source apps. On the other hand, Play Store is available for the exceptions.
 
 ## The laptop
 
