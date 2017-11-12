@@ -1,0 +1,34 @@
+---
+layout: post
+title: My setup
+category: posts
+---
+
+Description of my setup, incomplete and always changing.
+
+## General
+
+Software choices are political choices. Software is being build and sold to exploit people in a multitude of ways, choosing for software which isn't build for that purpose is a choice for less exploitation. True, it's the less convenient choice, it forces you to look beyond the obvious. The question is if you're comfortable being exploited, sold and discarded when you're no longer useful?
+
+On the other hand, I'm also pragmatic. I'd like to be able to communicate with friends. Balance is the key, a guru once said.
+
+## The phone
+
+LG Nexus 5x, running CopperheadOS. Forgot to lock the bootloader though, now it will be wiped if I do.
+
+Decided to change the stock ROM in favor for CopperheadOS because I wanted to be less annoyed by the Google Experience: The Feed showed me
+
+a) Intel I already knew  
+b) Intel I was and am not interested in.
+
+So much for that AI they call Assistant.
+
+Also, Copperhead promises a more secure phone. How can I resist that? Furthermore, it does provide me with the tools I want and for what it doesn't provide, it challenges me to find a working solution. My phone has a limited set of apps so it can stay snuggly buried deep inside my pocket more often. Although wobbly lately (why does it update apps which I uninstalled already?), F-Droid is a good repository for open-source apps.
+
+## The laptop
+
+Lenovo Z51-70, running Debain 9 with xfce
+
+I always come back to Debian. Don't need a lot of customization, it has the right balance between a sturdy interface and usability. I don't need shiny icons to pretend happiness. My only dotfile is a <code>.fonts.conf</code> to make the Interwebs readable for a longer period of time before getting a splitting headache. And <code>xset b off</code>, it annoyed the living daylights out of me.
+
+done.

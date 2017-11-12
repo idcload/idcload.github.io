@@ -1,0 +1,14 @@
+permalink: /posts/:title
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+
+plugins:
+  - jekyll-mentions
+
+name: HYPER.TXT
+url: https://idcload.github.io
+description: Not constraint to be linear
+mastodon: idcload
+xmpp: idcload

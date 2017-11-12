@@ -1,0 +1,27 @@
+<section class="sidebar">
+  <a href="/" aria-label="Avatar">
+    <img src="/logo.png" height="75" width="75" class="avatar" />
+  </a>
+
+  <section class="name">
+    <a href="/">
+      <span id="fname">{{ site.name|split:'.'|first }}</span>
+      <span id="lname">{{ site.name|split:'.'|last }}</span>
+    </a>
+  </section>
+
+  <section class="meta">
+    <a href="/atom.xml" title="Atom RSS feed" aria-label="Atom RSS feed"><i class="openwebicons-feed"></i></a>&nbsp;
+    <a href="https://todon.nl/@{{ site.mastodon }}" title="Mastodon" aria-label="Mastodon"><i class="openwebicons-mastodon"></i></a>
+    <a href="xmpp:{{ site.xmpp }}@jabber.systemli.org" title="xmpp" aria-label="xmpp"><i class="openwebicons-xmpp"></i></a><br />
+    <a href="https://www.gnu.org/copyleft/" title="Copyleft" aria-label="Copyleft"><i class="openwebicons-copyleft"></i></a>
+  </section>
+
+  <section class="sections">
+    <a href="/about.html" title="About" aria-label="About">about</a><br />
+  </section>
+  
+  <section class="grey">
+    #536878
+  </section>
+</section>
