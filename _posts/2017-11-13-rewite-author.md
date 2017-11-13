@@ -24,7 +24,7 @@ fi
 Missing in the article is a fix for the <code>git pull</code> error: <code>fatal: refusing to merge unrelated histories</code>.
 Anwser is here: [Stackoverflow: Git refusing to merge unrelated histories](https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories)
 
-```git
+```shell
 git pull --allow-unrelated-histories
 Merge made by the 'recursive' strategy.
 ```
